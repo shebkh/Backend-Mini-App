@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Desktop\\code edu\\Backend Mini App\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Backend-Mini-App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B27E675-7502-4F89-B6A8-D0552286BFD6}|Backend_Mini_App\\Backend Mini App.csproj|c:\\users\\user\\desktop\\backend-mini-app\\backend_mini_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B27E675-7502-4F89-B6A8-D0552286BFD6}|Backend_Mini_App\\Backend Mini App.csproj|solutionrelative:backend_mini_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Backend-Mini-App\\Backend_Mini_App\\Program.cs",
+              "RelativeDocumentMoniker": "Backend_Mini_App\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Backend-Mini-App\\Backend_Mini_App\\Program.cs",
+              "RelativeToolTip": "Backend_Mini_App\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T20:21:51.108Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

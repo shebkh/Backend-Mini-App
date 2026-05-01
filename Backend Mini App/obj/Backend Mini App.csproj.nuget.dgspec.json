@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\OneDrive\\Desktop\\code edu\\Backend Mini App\\Backend Mini App\\Backend Mini App.csproj": {}
+    "C:\\Users\\gegao\\Source\\Repos\\Backend-Mini-App\\Backend Mini App\\Backend Mini App.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\OneDrive\\Desktop\\code edu\\Backend Mini App\\Backend Mini App\\Backend Mini App.csproj": {
+    "C:\\Users\\gegao\\Source\\Repos\\Backend-Mini-App\\Backend Mini App\\Backend Mini App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\OneDrive\\Desktop\\code edu\\Backend Mini App\\Backend Mini App\\Backend Mini App.csproj",
+        "projectUniqueName": "C:\\Users\\gegao\\Source\\Repos\\Backend-Mini-App\\Backend Mini App\\Backend Mini App.csproj",
         "projectName": "Backend Mini App",
-        "projectPath": "C:\\Users\\user\\OneDrive\\Desktop\\code edu\\Backend Mini App\\Backend Mini App\\Backend Mini App.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\OneDrive\\Desktop\\code edu\\Backend Mini App\\Backend Mini App\\obj\\",
+        "projectPath": "C:\\Users\\gegao\\Source\\Repos\\Backend-Mini-App\\Backend Mini App\\Backend Mini App.csproj",
+        "packagesPath": "C:\\Users\\gegao\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gegao\\Source\\Repos\\Backend-Mini-App\\Backend Mini App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gegao\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -67,6 +67,10 @@
             "Microsoft.VisualStudio.LiveShare": {
               "target": "Package",
               "version": "[1.1.57, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[10.1.7, )"
             }
           },
           "imports": [
@@ -88,7 +92,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

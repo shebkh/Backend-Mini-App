@@ -1,0 +1,102 @@
+[
+  {
+    "ContainingType": "Backend_Mini_App.Controllers.ProductApiController",
+    "Method": "CreateProduct",
+    "RelativePath": "api/ProductApi/Create-Product",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "product",
+        "Type": "Backend_Mini_App.Models.Product",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Backend_Mini_App.Controllers.ProductApiController",
+    "Method": "DeleteProduct",
+    "RelativePath": "api/ProductApi/Delete-Product/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Backend_Mini_App.Controllers.ProductApiController",
+    "Method": "GetAllProducts",
+    "RelativePath": "api/ProductApi/Get-AllProducts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Backend_Mini_App.Controllers.ProductApiController",
+    "Method": "GetProductById",
+    "RelativePath": "api/ProductApi/Get-ProductById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Backend_Mini_App.Controllers.ProductApiController",
+    "Method": "SearchProductByName",
+    "RelativePath": "api/ProductApi/Search-Product",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Backend_Mini_App.Controllers.ProductApiController",
+    "Method": "Test",
+    "RelativePath": "api/ProductApi/test",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Backend_Mini_App.Controllers.ProductApiController",
+    "Method": "UpdateProduct",
+    "RelativePath": "api/ProductApi/Update-Product",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "product",
+        "Type": "Backend_Mini_App.Models.Product",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
